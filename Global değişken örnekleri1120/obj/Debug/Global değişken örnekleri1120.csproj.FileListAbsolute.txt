@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Global değişken örnekleri1120\Global değişken örnekleri1120\bin\Debug\Global değişken örnekleri1120.exe.config
+C:\Users\User\source\repos\Global değişken örnekleri1120\Global değişken örnekleri1120\bin\Debug\Global değişken örnekleri1120.exe
+C:\Users\User\source\repos\Global değişken örnekleri1120\Global değişken örnekleri1120\bin\Debug\Global değişken örnekleri1120.pdb
+C:\Users\User\source\repos\Global değişken örnekleri1120\Global değişken örnekleri1120\obj\Debug\Global değişken örnekleri1120.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Global değişken örnekleri1120\Global değişken örnekleri1120\obj\Debug\Global değişken örnekleri1120.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Global değişken örnekleri1120\Global değişken örnekleri1120\obj\Debug\Global_değişken_örnekleri1120.Form1.resources
+C:\Users\User\source\repos\Global değişken örnekleri1120\Global değişken örnekleri1120\obj\Debug\Global_değişken_örnekleri1120.Properties.Resources.resources
+C:\Users\User\source\repos\Global değişken örnekleri1120\Global değişken örnekleri1120\obj\Debug\Global değişken örnekleri1120.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Global değişken örnekleri1120\Global değişken örnekleri1120\obj\Debug\Global değişken örnekleri1120.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Global değişken örnekleri1120\Global değişken örnekleri1120\obj\Debug\Global değişken örnekleri1120.exe
+C:\Users\User\source\repos\Global değişken örnekleri1120\Global değişken örnekleri1120\obj\Debug\Global değişken örnekleri1120.pdb
